@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Caliber Stadium - LoL Analysis Platform</title>
+</head>
+<body style="background-color: #0d0d0d; color: white; font-family: sans-serif; padding: 50px; text-align: center;">
+    <h1>🚀 Caliber Stadium</h1>
+    <p>AI-Driven Post-Game Diagnostic Platform for League of Legends.</p>
+    <hr style="border-color: #333; width: 50%;">
+    <p>This is a professional analysis tool for improving gamer performance.</p>
+    <p style="color: #888; font-size: 0.8rem;">(Currently under development for Riot API Production Review)</p>
+</body>
+</html>
