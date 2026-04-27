@@ -1,0 +1,44 @@
+# Caliber Stadium: AI-Driven Post-Game Diagnostic Platform
+
+## 1. Introduction (서비스 소개)
+
+**Caliber Stadium** is a specialized data analysis platform designed to help League of Legends players improve their strategic decision-making and mechanical precision. By comparing user data with "One-trick Masters," we provide actionable insights that traditional stats sites cannot offer.
+
+![image.png](attachment:720ee44e-40ac-480d-986f-8f136a046ae1:image.png)
+
+## Key Features
+
+### 👻 Ghost-Path Visualization
+
+- **Description:** We overlay the movement paths of a Master player and the User on a single map using the **Timeline-V5 API**.
+- **Value:** Players can visually identify exactly where and when they deviated from the optimal rotation.
+- **설명:** 타임라인 데이터를 활용해 장인의 동선과 유저의 동선을 지도 위에 겹쳐서 보여줌으로써, 어느 시점에 판단이 엇갈렸는지 시각적으로 증명합니다.
+
+### 🌌 AI 'What-If' Simulator
+
+- **Description:** A simulation that calculates the "Opportunity Cost" of a player's movement. It visualizes the expected Gold and XP gains the user could have achieved by following the Master's path.
+- **Value:** It motivates players by showing the tangible benefits of better decision-making.
+- **설명:** "만약 장인의 동선을 따랐다면?"에 대한 기대 수익(골드/경험치)을 계산하여 유저가 놓친 기회비용을 평행우주 그래프로 보여줍니다.
+
+### 🧬 Skill DNA & Dead-Time Tracker
+
+- **Description:** Analyzes skill sequences during teamfights and identifies "Dead-Time" where no meaningful actions were taken.
+- **설명:** 교전 시 스킬 사용 순서와 게임 중 무의미하게 낭비되는 시간을 추적하여 개선점을 제안합니다.
+
+---
+
+## 3. Compliance & Fair Play
+
+- **Post-Game Only:** All analysis is performed **only after the match is completed**. We do not provide any real-time data or in-game overlays.
+- **No Unfair Advantage:** Our tool is strictly for educational and diagnostic purposes. It does not interfere with the game client or provide any competitive advantage during active play.
+- **설명:** 모든 분석은 게임 종료 후 진행되며, 실시간 헬퍼나 부정행위 도구를 일절 제공하지 않습니다. 라이엇의 공정성 정책을 100% 준수합니다.
+
+---
+
+## 4. Privacy Policy
+
+Caliber Stadium is committed to protecting user privacy.
+
+1. **Data Collection:** We only collect data through the official Riot API as authorized by the user.
+2. **Data Usage:** Collected data is used solely for generating performance reports and is never sold to third parties.
+3. **Policy Compliance:** We strictly adhere to the Riot Games Developer Policy and General Data Protection Regulations.
